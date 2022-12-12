@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: /images/thinking2.jpeg
+background: ./images/thinking2.jpeg
 # apply any windi css classes to the current slide
 class: 'text-center'
 # https://sli.dev/custom/highlighters.html
@@ -231,7 +231,7 @@ layout: center
 
 |  SCQA   | 描述  | 例子 |
 |  ----  | ----  | ---- |
-| Scenario   | 原本稳定状态的描述 | SCode plugin市场新发布了一个名为“tiny-wiki”的插件，受到广大开发者的关注。|
+| Scenario   | 原本稳定状态的描述 | VSCode plugin市场新发布了一个名为“tiny-wiki”的插件，受到广大开发者的关注。|
 | Complication  | 颠覆现状，发现问题 | Howar想要知道这个插件好不好用，但是有的评论说好用，有的评论说不好用。|
 | Question  | 待完成课题 | tiny-wiki到底是好用还是不好用呢？|
 | Answer  | 解决方案 | Howar自己下载安装试一下tiny-wiki就知道了 |
@@ -470,7 +470,7 @@ layout: center
 layout: center
 ---
 
-![Untitled](/images/hunli.png)
+![hunli](/images/hunli.png)
 
 <!-- 
 开头：
@@ -492,12 +492,13 @@ layout: center
 开头：
 形象化 - 这里不是今天的重点，仅仅是快速的提一下。那怎么做呢？ 
 -->  
+
 ---
 layout: center
 ---
 ### 配关系， 得图示
 
-![Untitled](/images/luopan.png)
+![luopan](/images/luopan.png)
 
 <!-- 
 开头：
@@ -530,6 +531,7 @@ layout: center
 - ☕ 生活方方面面
 
 </v-clicks>
+
 <!-- 
 个人笔记- Bonnie的课非常精彩，虽然我不小心中午睡过去了，但是睡梦中也感知到了课堂的精彩。 貌似我觉着我这次share的topic可以起到相辅相成的功效，提供给大家一个思考的方式来记录好个人笔记。笔记是给未来的自己而看的，请把未来的自己当成一个陌生人在读你的笔记。
 生活方方面面 - 比如Murray和Renee的婚礼筹备工作哈
@@ -540,10 +542,9 @@ layout: center
 ---
 <aside>
 
- ☕ 行至水穷处，坐看云起时
-
-<!-- 
-练习过程中，不要放弃，明天会更好
---> 
+☕ 行至水穷处，坐看云起时
 
 </aside>
+<!-- 
+ 练习过程中，不要放弃，明天会更好
+--> 

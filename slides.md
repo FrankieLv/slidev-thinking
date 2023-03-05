@@ -21,6 +21,7 @@ drawings:
   persist: false
 # use UnoCSS
 css: unocss
+download: 'https://frankie-talks-thinking.netlify.app/thinking.pdf'
 ---
 # 结构化思考
 

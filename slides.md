@@ -21,7 +21,6 @@ drawings:
   persist: false
 # use UnoCSS
 css: unocss
-download: true
 ---
 # 结构化思考
 

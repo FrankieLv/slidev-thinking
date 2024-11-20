@@ -3,8 +3,8 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: /images/thinking2.jpeg
-# apply any windi css classes to the current slide
+background: /images/thinking2.png
+# apply any windi css classescrimsonlogic.png to the current slide
 class: 'text-center'
 # https://sli.dev/custom/highlighters.html
 highlighter: shiki
@@ -24,8 +24,8 @@ css: unocss
 ---
 # 结构化思考
 
- Frankie  
- 2022.12
+ Lv Yifeng  
+ 2024.11
 
 ---
 
